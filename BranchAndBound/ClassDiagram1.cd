@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BranchAndBound.Graph">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAGBAAAIAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Graph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BranchAndBound.TSPSolverBranchAndBound">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIAAAIAAACAAAAEAAgAIAAAAAAgAAAAAAACAAAA=</HashCode>
+      <FileName>TSPSolverBranchAndBound.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Graph" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BranchAndBound.MainForm">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AACAABIQgAAAABgIxACIMAAGCQEQAAgECA4ACAxAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Graph" />
+      <Property Name="TSPSolverBranchAndBound" />
+      <Property Name="MatrixForm" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="BranchAndBound.MatrixForm">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAACAAAADABAACEAgABAgAIAAAAAAAAAA=</HashCode>
+      <FileName>MatrixForm.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Graph" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

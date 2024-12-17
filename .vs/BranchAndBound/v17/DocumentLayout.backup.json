@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|c:\\users\\admin\\source\\repos\\branchandbound\\branchandbound\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\matrixform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\matrixform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\inputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\inputdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\tspsolverbranchandbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\tspsolverbranchandbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|C:\\Users\\Admin\\source\\repos\\BranchAndBound\\branchandbound\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9DE7B5CB-01F4-4DF9-818B-F07BDE595E39}|BranchAndBound\\BranchAndBound.csproj|solutionrelative:branchandbound\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MainForm.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "BranchAndBound\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:14:34.036Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MainForm.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MainForm.cs",
+              "RelativeToolTip": "BranchAndBound\\MainForm.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAmwNoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:15:54.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MainForm.Designer.cs",
+              "RelativeToolTip": "BranchAndBound\\MainForm.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:17:20.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatrixForm.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MatrixForm.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\MatrixForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MatrixForm.cs",
+              "RelativeToolTip": "BranchAndBound\\MatrixForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:58:02.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatrixForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MatrixForm.Designer.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\MatrixForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MatrixForm.Designer.cs",
+              "RelativeToolTip": "BranchAndBound\\MatrixForm.Designer.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:41:46.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\Graph.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\Graph.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\Graph.cs",
+              "RelativeToolTip": "BranchAndBound\\Graph.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:57:43.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InputDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\InputDialog.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\InputDialog.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\InputDialog.cs",
+              "RelativeToolTip": "BranchAndBound\\InputDialog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:21:18.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\Program.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\Program.cs",
+              "RelativeToolTip": "BranchAndBound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:30:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TSPSolverBranchAndBound.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\TSPSolverBranchAndBound.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\TSPSolverBranchAndBound.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\TSPSolverBranchAndBound.cs",
+              "RelativeToolTip": "BranchAndBound\\TSPSolverBranchAndBound.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAuwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:15:44.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "BranchAndBound\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\ClassDiagram1.cd",
+              "RelativeToolTip": "BranchAndBound\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-12-09T16:06:48.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MatrixForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MatrixForm.cs",
+              "RelativeDocumentMoniker": "BranchAndBound\\MatrixForm.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\BranchAndBound\\BranchAndBound\\MatrixForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "BranchAndBound\\MatrixForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:57:59.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
